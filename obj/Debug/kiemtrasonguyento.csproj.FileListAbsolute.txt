@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\dientichhinhchunhat\kiemtrasonguyento\bin\Debug\kiemtrasonguyento.exe.config
+C:\Users\tuan\Desktop\dientichhinhchunhat\kiemtrasonguyento\bin\Debug\kiemtrasonguyento.exe
+C:\Users\tuan\Desktop\dientichhinhchunhat\kiemtrasonguyento\bin\Debug\kiemtrasonguyento.pdb
+C:\Users\tuan\Desktop\dientichhinhchunhat\kiemtrasonguyento\obj\Debug\kiemtrasonguyento.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\kiemtrasonguyento\obj\Debug\kiemtrasonguyento.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\kiemtrasonguyento\obj\Debug\kiemtrasonguyento.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\kiemtrasonguyento\obj\Debug\kiemtrasonguyento.exe
+C:\Users\tuan\Desktop\dientichhinhchunhat\kiemtrasonguyento\obj\Debug\kiemtrasonguyento.pdb
